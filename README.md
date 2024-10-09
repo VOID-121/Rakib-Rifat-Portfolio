@@ -15,4 +15,4 @@ Here is the bucket policy for this
         }
     ]
 }"
-you can have a look using this link: https://us-east-1.console.aws.amazon.com/iam/home?region=ap-southeast-2#/users/details/devops-rifat?section=security_credentials
+you can have a look using this link: http://rrportfolio.s3-website-ap-southeast-2.amazonaws.com/
